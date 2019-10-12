@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaemuphei.lasperduta.com/sitemap.xml
